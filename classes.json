@@ -1,8 +1,57 @@
 {
-    "Bard": {
-        "spells": [
-            "healing touch",
-            "cure wounds"
-        ]
-    } 
+    "classes":
+    [
+        {
+            "name": "Barbarian",
+            "hit_dice": "d12"
+        },
+        {
+            "name": "Bard",
+            "hit_dice": "d8",
+            "spells": [
+                "healing touch",
+                "cure wounds"
+            ]
+        },
+        {
+            "name": "Cleric",
+            "hit_dice": "d8"
+        },
+        {
+            "name": "Druid",
+            "hit_dice": "d8"
+        },
+        {
+            "name": "Fighter",
+            "hit_dice": "d10"
+        },
+        {
+            "name": "Monk",
+            "hit_dice": "d8"
+        },
+        {
+            "name": "Paladin",
+            "hit_dice": "d10"
+        },
+        {
+            "name": "Ranger",
+            "hit_dice": "d10"
+        },
+        {
+            "name": "Rogue",
+            "hit_dice": "d8"
+        },
+        {
+            "name": "Sorcerer",
+            "hit_dice": "d6"
+        },
+        {
+            "name": "Warlock",
+            "hit_dice": "d8"
+        },
+        {
+            "name": "Wizard",
+            "hit_dice": "d6"
+        }
+    ]
 }
