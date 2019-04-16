@@ -1,0 +1,14 @@
+{
+    "character": {
+            "name": "",
+            "level": "",
+            "scores": [],
+            "classname": "",
+            "classjson": {},
+            "modifiers": {},
+            "basehp": 0,
+            "hp": 0,
+            "xp": 0
+        }
+
+}
